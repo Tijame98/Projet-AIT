@@ -25,4 +25,4 @@ To get started with the code in this repository:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ait-project-ni-froid-ni-chaud.git
+git clone https://github.com/Tijame98/Projet-AIT
